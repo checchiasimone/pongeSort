@@ -10,12 +10,8 @@ package pongesort;
  * @author pogliani.mattia
  */
 public class PongeSort {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        char [] array = {'b','n','s','d','e','t','y','u','d','p'};
     }
     
 }
